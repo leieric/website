@@ -18,7 +18,7 @@ organizations:
   url: "http://www.cornell.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital communications, signal processing, machine learning, and high-performance computing.
+bio: My research interests include communications theory, signal processing, machine learning, and high-performance computing.
 
 interests:
 - Digital Communications
@@ -49,7 +49,7 @@ social:
 #  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?hl=en&user=YNxObQoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/leieric
