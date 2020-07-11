@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Incoming Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Cornell University
-  url: "http://www.cornell.edu"
+- name: University of Pennsylvania
+  url: "http://www.upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include communications theory, signal processing, machine learning, and high-performance computing.
@@ -69,4 +69,4 @@ email: ""
 #- Visitors
 ---
 
-I am a senior undergraduate student at Cornell University, majoring in Electrical and Computer Engineering, and minoring in Mathematics and Computer Science. I currently work with [Prof. Christoph Studer](https://www.ece.cornell.edu/faculty-directory/christoph-studer) in the [VLSI Information Processing Group](http://vip.ece.cornell.edu). I will start my Ph.D. at Penn in fall 2020. 
+I am an incoming Ph.D. student at the University of Pennsylvania in the Electrical and Systems Engineering department. I received my B.S. from Cornell University in May 2020, where I majored in Electrical and Computer Engineering, with minors in Mathematics and Computer Science. At Cornell, I worked with [Prof. Christoph Studer](https://www.ece.cornell.edu/faculty-directory/christoph-studer) in the [VLSI Information Processing Group](http://vip.ece.cornell.edu). 

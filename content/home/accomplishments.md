@@ -33,5 +33,6 @@ date_format = "Jan 2006"
 - NSF Graduate Research Fellowship, _National Science Foundation_ (2020)
 - Ganster Engineering Fellowship, _University of Pennsylvania_ (2020)
 - The Dean's Fellowship, _University of Pennsylvania_ (2020)
+- Sigma Xi, _nominated_ (2020)
 - Tau Beta Pi (2019)
-- Eta Kappa Nu, _Institute of Electrical and Electronic Engineers_ (2018)
+- Eta Kappa Nu (2018)
